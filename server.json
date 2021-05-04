@@ -1,0 +1,72 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Shampoo Dog Neutro",
+      "Category":"Cachorro",
+      "price": 30.9,
+      "image": "https://www.petlove.com.br/images/products/224784/product/Shampoo_Sanol_Dog_Neutro_-_500_mL_3103131.jpg?1591644833"
+    },
+    {
+      "id": 2,
+      "title": "Shampoo Genial Pet anti-pulgas",
+      "Category":"Cachorro",
+      "price": 20.9,
+      "image": "https://cdn.awsli.com.br/1000x1000/1226/1226108/produto/51546010/99bc0d07ac.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Bebedouro chalesco",
+	"Category":"Cachorro",
+      "price": 100.9,
+      "image": "https://cdn.iset.io/assets/55351/produtos/142/bebedouro_e_comedouro_pl_stico_com_bilha_top_import.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Ração whiskas 3kg",
+      "Category":"Gato",
+      "price": 40.9,
+      "image": "https://a-static.mlcdn.com.br/618x463/racao-para-gato-whiskas-premium-carne-com-delicrocs-3kg/efacil/716010/a9fe47b6340bf3d24a2dcb27f7c0c7f6.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Mormaii Arranhador",
+      "Category":"Gato",
+      "price": 19.9,
+      "image": "http://portalmedicinafelina.com.br/wp-content/uploads/2013/01/arranhador-274x300.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Bola de brinquedo com cravo",
+      "Category":"Cachorro",
+      "price": 14.9,
+      "image": "https://www.royalpets.com.br/media/catalog/product/cache/1/image/500x500/9df78eab33525d08d6e5fb8d27136e95/s/c/screen_shot_2016-01-22_at_13.52.48.png"
+    }
+  ]
+}

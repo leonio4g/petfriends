@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  outline: 0;
   box-sizing: border-box;
 
 }
@@ -39,6 +40,7 @@
 body {
  background: var(--purple-900);
  color: var(--white);
+
 }
 
 body, input, textarea, select, button {
